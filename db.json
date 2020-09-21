@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "credit": {
+    "credit": 0
+  },
+  "profile": {
+    "fname": "مهدی",
+    "lname": "جباری",
+    "id": "1",
+    "phoneNum": "0914898989",
+    "city": "تهران",
+    "joinDate": "19 شهریور 1399",
+    "qtyOrder": 0,
+    "code": "15856956"
+  }
+}
